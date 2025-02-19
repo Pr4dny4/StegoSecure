@@ -1,6 +1,5 @@
 # StegoSecure
 A Python-based image steganography tool that hides encrypted messages inside images using ROT13 and passcode protection.
-# Image Steganography with Encryption
 
 ## Introduction
 This project implements image steganography by embedding a secret message inside an image without altering its appearance. The message is first encrypted using ROT13 and then hidden within pixel values of the image. The system also includes password protection for added security.
